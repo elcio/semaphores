@@ -1,2 +1,2 @@
 # semaphores
-Jogo de Código Semafórico
+Flag Semaphore game
